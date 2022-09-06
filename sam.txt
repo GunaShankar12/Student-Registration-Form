@@ -1,0 +1,18 @@
+
+
+Name:GunaShankar
+Father Name:Raju
+DOB:12\Nov\2002
+Gender:male
+Mobile number:7093963481
+Address:57-27-98,siddahrdha street,vskp
+Mail id:gunashankarkalla123@gmail.com
+PasswordGuna#2345
+Course name:BE/B Tech.
+Branch name:Computer Science and Engineering in AI and ML
+Year of Study:3rd year
+Semester:1
+GPA:9.37
+
+
+
